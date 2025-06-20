@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jm2ac5bh9AH6btnSMD9IJG6hlMIfzoegBoRxt1DJnGGcDhtIGQn7YA4+4toXeG5RDIPxJU5puwNI537hUGfMCw==",
+  "dgSpecHash": "ZUm1A5x91tbB1mEwYjtWlZ/sPwdrfpsIzSiPsH/qPy6YB+hOY76BAm77f157A7nM+/m7mJnIcsOFu5Kh0Ni2hA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asus\\Desktop\\CinemaReservationApi\\CinemaReservationApi\\CinemaReservationApi.csproj",
+  "projectFilePath": "C:\\Users\\asus\\Desktop\\kino_projekt\\CinemaReservationApi\\CinemaReservationApi\\CinemaReservationApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asus\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

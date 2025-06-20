@@ -5163,11 +5163,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\Desktop\\CinemaReservationApi\\CinemaReservationApi\\CinemaReservationApi.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Desktop\\kino_projekt\\CinemaReservationApi\\CinemaReservationApi\\CinemaReservationApi.csproj",
       "projectName": "CinemaReservationApi",
-      "projectPath": "C:\\Users\\asus\\Desktop\\CinemaReservationApi\\CinemaReservationApi\\CinemaReservationApi.csproj",
+      "projectPath": "C:\\Users\\asus\\Desktop\\kino_projekt\\CinemaReservationApi\\CinemaReservationApi\\CinemaReservationApi.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\Desktop\\CinemaReservationApi\\CinemaReservationApi\\obj\\",
+      "outputPath": "C:\\Users\\asus\\Desktop\\kino_projekt\\CinemaReservationApi\\CinemaReservationApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
