@@ -61,11 +61,14 @@ cd kino-frontend/kino-frontend
 npm install
 npm start
 
-### 📌 Notes
+
+
+
+## 📌 Notes
 
 Backend uses EF Core for ORM and SQLite/SQL Server for data storage (adjustable in configuration).
 
-### Authors
+## Authors
 
 Created by **Aleksandra Bluszcz** and **Aleksandra Strzelczyk**
 
