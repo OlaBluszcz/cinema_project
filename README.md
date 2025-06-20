@@ -47,6 +47,7 @@ A full-stack web application for managing movie reservations in a cinema. The sy
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/OlaBluszcz/cinema_project.git
+```
 
 ### 2. Run the Backend
 
