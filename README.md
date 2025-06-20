@@ -47,20 +47,21 @@ A full-stack web application for managing movie reservations in a cinema. The sy
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/OlaBluszcz/cinema_project.git
+```
 
 ### 2. Run the Backend
-
+```bash
 cd CinemaReservationApi/CinemaReservationApi
 dotnet restore
 dotnet build
 dotnet run
-
+```
 ### 3. Run the Frontend
-
+```bash
 cd kino-frontend/kino-frontend
 npm install
 npm start
-
+```
 
 
 
