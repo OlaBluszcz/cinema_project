@@ -50,18 +50,18 @@ git clone https://github.com/OlaBluszcz/cinema_project.git
 ```
 
 ### 2. Run the Backend
-
+```bash
 cd CinemaReservationApi/CinemaReservationApi
 dotnet restore
 dotnet build
 dotnet run
-
+```
 ### 3. Run the Frontend
-
+```bash
 cd kino-frontend/kino-frontend
 npm install
 npm start
-
+```
 
 
 
